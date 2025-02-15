@@ -4,7 +4,7 @@
     <h2>Formulários preenchidos</h2>
     <div class="py-5 flex flex-col gap-5 justify-around items-center">
         <table class="max-w-7xl table-auto rounded-lg shadow-md overflow-hidden">
-            <thead class="bg-blue-600 text-white">
+            <thead class="bg-[#398AC8] text-white">
                 <tr>
                     <th class="py-3 px-4 text-left">Nome</th>
                     <th class="py-3 px-4 text-left">Telefone</th>

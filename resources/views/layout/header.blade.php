@@ -1,3 +1,7 @@
-<header class="bg-amber-300 py-[100px]">
-    <h1>Header</h1>
+<header class="bg-white px-3 py-5">
+    <div class="flex flex-row justify-between">
+        <div class="logo">
+            <a href="https://ntecmanutencao.com.br"><img src="{{asset('image/logo.PNG')}}" alt="Logo Ntec Manutenção" width="170px"></a>
+        </div>
+    </div>
 </header>

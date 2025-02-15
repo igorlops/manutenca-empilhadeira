@@ -10,7 +10,7 @@
         <img src="data:image/png;base64,{{ base64_encode(file_get_contents(public_path('image/logo.PNG'))) }}" alt="Logo Ntec Manutenção" width="100px">
         <br>
         <br>
-        <h2 style="color: #0056b3;">📩 Novo Contato Recebido</h2>
+        <h2 style="color: #398AC8;">📩 Novo Contato Recebido</h2>
 
         <p><strong>Nome:</strong> {{ $dados['nome'] }}</p>
         <p><strong>Telefone:</strong> {{ $dados['telefone'] }}</p>

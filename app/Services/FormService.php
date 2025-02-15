@@ -24,7 +24,7 @@ class FormService {
     }
 
     public function enviaFormMail($data) {
-        Mail::to('claudioigorai@gmail.com', 'Ntec Manutenção')->send(new ContatoMail($data));
+        Mail::to('ntecmanutencaodeempilhadeira@gmail.com', 'Ntec Manutenção')->send(new ContatoMail($data));
     }
 
     public function getContacts() {
